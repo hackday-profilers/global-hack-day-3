@@ -31,8 +31,6 @@ https://github.com/wallnerryan/scaleio-py/tree/profiles_scaleiopy
 
 (These instructions do not include setting up flocker-docker-plugin or docker, please see https://docs.clusterhq.com/en/1.3.1/labs/docker-plugin.html)
 
-## ScaleIO
-
 ScaleIO
 ```
 git clone https://github.com/wallnerryan/scaleio-vagrant-profiles
